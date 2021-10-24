@@ -1,1 +1,1 @@
-# Vaja-5-ADC-Continious-conversion
+# Vaja-2-ADC-Continious-conversion
